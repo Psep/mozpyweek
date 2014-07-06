@@ -1,0 +1,25 @@
+{
+    "version": "1.0",
+    "name": "MozPYWeek",
+    "launch_path": "/",
+    "description": "Información oficial sobre el evento MozPYWeek 2014 en Paraguay en el marco de la celebración de aniversario de la comunidad Mozilla Paraguay",
+    "developer": {
+        "name": "Pablo Sepulveda",
+        "url": "http://www.psep.cl"
+    },
+    "icons": {
+        "128": "/images/logo128.png",
+        "64": "/images/logo64.png",
+        "60": "/images/logo60.png",
+        "48": "/images/logo48.png",
+        "32": "/images/logo32.png",
+        "16": "/images/logo16.png"
+    },
+    "chrome": { 
+    	"navigation": true 
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "es",
+    "permissions": {
+    }
+}
