@@ -14,18 +14,26 @@
 
 .tabla-programa td {
 	text-align: left;
-	width: 70%;
-	vertical-align:middle;
+	width: 90%;
+	vertical-align: middle;
 }
 
-.img-perfil-agenda{
+.img-perfil-agenda {
 	border-radius: 50%;
 	box-shadow: 0px 0px 15px #000;
-	padding:0;
-	border:0;
+	padding: 0;
+	border: 0;
 	-moz-transition: all 1s;
 	-webkit-transition: all 1s;
 	-o-transition: all 1s;
 	border: 0px none;
 	width: 100%;
+}
+
+.fb_iframe_widget span {
+	vertical-align: baseline !important;
+}
+
+.twitter-share-button{
+	text-align: center;
 }
