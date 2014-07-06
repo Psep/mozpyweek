@@ -1,7 +1,7 @@
 {
     "version": "1.0",
     "name": "MozPYWeek",
-    "launch_path": "/",
+    "launch_path": "/index.html",
     "description": "Información oficial sobre el evento MozPYWeek 2014 en Paraguay en el marco de la celebración de aniversario de la comunidad Mozilla Paraguay",
     "developer": {
         "name": "Pablo Sepulveda",
